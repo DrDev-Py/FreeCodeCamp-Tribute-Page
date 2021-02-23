@@ -1,0 +1,43 @@
+#main{
+    margin: 5%;
+}
+
+.header{
+    text-align: center;
+}
+
+ul li{
+    padding-bottom: 20px;
+}
+
+li span{
+    font-weight:1000;
+}
+
+ul{
+    font-size: 1.15em;
+}
+
+#title, #img-caption, #tribute-info, #tribute-link, ul{
+    color: rgba(0,0,0,0.8);
+}
+
+#tribute-info{
+    text-align: justify;
+    width: 60%;
+    padding-left: 13%;
+    padding-right: 5%;
+}
+
+#tribute-info h3{
+    text-align: center;
+}
+
+#image{
+    display: flex;
+    margin: auto;
+}
+
+#img-caption{
+    text-align: center;
+}
